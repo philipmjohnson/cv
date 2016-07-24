@@ -9,6 +9,7 @@
 *.make
 *.d
 *.ps
+*.temp
 
 ## Intermediate documents:
 *.dvi
